@@ -13,6 +13,7 @@
   https://data.gov.sa/Data/ar/dataset/field-of-study-2013-2018
 
 # Solution & Assumptions
+
 **There are two folders
 1- Tadawul-Web-Scraping folder
 
