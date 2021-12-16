@@ -12,7 +12,7 @@
   From the link below, you need to store the Excel file in PostgreSQL and then use the stored data to build dashboard to show useful insights.: 
   https://data.gov.sa/Data/ar/dataset/field-of-study-2013-2018
 
-# Solution & Assumptions
+# folders & files
 
 **There are two folders
 
