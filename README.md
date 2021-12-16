@@ -3,7 +3,7 @@
 
   Collect all updated data of Tadawul Market from the following link:https://www.tadawul.com.sa/wps/portal/tadawul/markets/equities/market-watch/market-watch-today?locale=en
 
-    Collect all the companies and the values of each and store the data in PostgreSQL database. Please note that you should save each company with its category ;for example, SARCO under Energy cat.
+  Collect all the companies and the values of each and store the data in PostgreSQL database. Please note that you should save each company with its category ;for example, SARCO under Energy cat.
 
   -Read the stored data from database and show it as a table .
 
