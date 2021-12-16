@@ -39,10 +39,13 @@
   csv it contains Tadawul information 
   
 2-Higher_Education_dashboard
+
   Higher_EducationDb
+  
   -postgresql Database it contains Graduates information collected from https://data.gov.sa/Data/ar/dataset/field-of-study-2013-2018
   
   Graduates dashboard
+  
   -Graduates dashboard using powerbi
 
 
