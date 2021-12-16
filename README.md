@@ -19,18 +19,23 @@
 
 1- Tadawul-Web-Scraping folder
 
-  **There are two jupyter notebook
-  - Tadawul build AutoScraper rules
-  - Tadawul_build Db
+
 
   Tadawul build AutoScraper rules
-  - build the AutoScraper rule to  Collect all updated data of Tadawul Market and save it into json file.
+  
+  - build the AutoScraper rule to Collect all updated data of Tadawul Market and save it into json file.
+  
   Tadawul_build Db
+  
   - Loading a json file and use it to build a DataFrame and save it to PostgreSQL
+  
   TadawulDB
-  PostgreSQL 
+  
+
   -postgresql Database it contains Tadawul information
+  
   Tadawul
+  
   csv it contains Tadawul information 
   
 2-Higher_Education_dashboard
