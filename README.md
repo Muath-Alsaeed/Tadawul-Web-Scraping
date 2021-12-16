@@ -15,6 +15,8 @@
 # Solution & Assumptions
 
 **There are two folders
+
+
 1- Tadawul-Web-Scraping folder
 
   **There are two jupyter notebook
